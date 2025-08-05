@@ -1,6 +1,6 @@
 # 🚀 **Copy trading Bot With Rust**
 
-## hoose a Trader (Signal Provider): ##
+## choose a Trader (Signal Provider): ##
 
 -The bot connects to a skilled trader’s account or strategy.
 

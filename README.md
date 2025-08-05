@@ -1,18 +1,18 @@
 # 🚀 **Copy trading Bot With Rust**
 
-##Choose a Trader (Signal Provider):##
+## hoose a Trader (Signal Provider): ##
 
 -The bot connects to a skilled trader’s account or strategy.
 
 -This trader is often called a "leader", "signal provider", or "master".
 
-##Mirror Their Trades Automatically:##
+## Mirror Their Trades Automatically: ##
 
 -When the master opens or closes a position, your account automatically mirrors the same action — often within milliseconds.
 
 -Trades are copied proportionally, depending on how much you're willing to risk.
 
-##Automation Layer:##
+## Automation Layer: ##
 
 -The bot watches for new trades via:
 

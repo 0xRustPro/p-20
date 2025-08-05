@@ -16,11 +16,11 @@
 
 -The bot watches for new trades via:
 
-API access to the trader’s account
+  o API access to the trader’s account
 
-Blockchain activity (on-chain copy trading)
+  o Blockchain activity (on-chain copy trading)
 
-WebSocket streams or mirror services
+  o WebSocket streams or mirror services
 
 -Then it uses your API keys to execute the same trades on your behalf.
 

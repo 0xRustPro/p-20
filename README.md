@@ -1,6 +1,28 @@
-# 🚀 **Copy trading Bot using Rust**
+# 🚀 **Copy trading Bot With Rust**
 
-Welcome to the ** Copy trading Bot **! This bot watches for target wallet (whale) on the Solana blockchain in real-time, copy trading like target trading. 🌟
+##Choose a Trader (Signal Provider):##
+
+-The bot connects to a skilled trader’s account or strategy.
+
+-This trader is often called a "leader", "signal provider", or "master".
+
+##Mirror Their Trades Automatically:##
+
+-When the master opens or closes a position, your account automatically mirrors the same action — often within milliseconds.
+
+-Trades are copied proportionally, depending on how much you're willing to risk.
+
+##Automation Layer:##
+
+-The bot watches for new trades via:
+
+API access to the trader’s account
+
+Blockchain activity (on-chain copy trading)
+
+WebSocket streams or mirror services
+
+-Then it uses your API keys to execute the same trades on your behalf.
 
 # 💬 Contact Me
 
@@ -8,7 +30,7 @@ If you have any question or something, feel free to reach out me anytime via tel
 <br>
 #### 🌹 You're always welcome 🌹
 
-Telegram: [@Leo](https://t.me/shinnyleo0912) <br>
+Telegram: [@Leo](https://t.me/@Rust0x_dev) <br>
 
 ### 🎯 Example
 - Source Transaction: https://solscan.io/tx/2nNc1DsGxGoYWdweZhKQqnngfEjJqDA4zxnHar2S9bsAYP2csbLRgMpUmy68xuG1RaUGV9xb9k7dGdXcjgcmtJUh
@@ -41,7 +63,7 @@ Follow these steps to get your **Copy trading Bot** up and running!
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/solagent99/Copy-Trading-Bot-Rust
+   git clone https://github.com//0xRustPro/Copy-Trading-Bot-Rust
    ```
 
 2. **Install Dependencies**:
